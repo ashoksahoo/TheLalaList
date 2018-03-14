@@ -24,3 +24,9 @@ A list of companies one would not want to touch with a 10ft pole while wearing a
 (Diversity over merit)
 
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Yo tweeps know women in backend/DevOps looking for positions? Hiring for 1 of the most challenging roles, scaling our AI platform globally</p>&mdash; ashwini asokan (@LadyAshBorg) <a href="https://twitter.com/LadyAshBorg/status/829234320141328384?ref_src=twsrc%5Etfw">8 February 2017</a></blockquote>
+
+## [Bank On Cube](https://www.bankoncube.com/) 
+
+(Name and shame a candidate publicly if he decides against joining the company - because ethics???)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">1. Shorter notice periods - 2 weeks. Give and get<br>2. Founders secret blacklist of flakes<br>3. Name and shame socially <br><br>Pick any/all that you find acceptable.</p>&mdash; Satyen V Kothari (@saty_77) <a href="https://twitter.com/saty_77/status/973469970414780416?ref_src=twsrc%5Etfw">March 13, 2018</a></blockquote>
