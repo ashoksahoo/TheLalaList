@@ -1,10 +1,11 @@
 # The Lala List
+A list of companies one would not want to touch with a 10ft pole while wearing a Hazmat suit. PRs for new additions are welcome. The list itself is in no particular order.
 
-## Code of conduct : 
-- In order to add a company, please leave a comment with company name and public proof of notoriety. 
-- Personal grudges, word-of-mouth, arbitrary defamation, and second hand knowledge would not be considered as enough evidence. 
-- Evidence can be shared in form of screenshots, twitter-archive links - anything that can be viewed publicly. 
-- Please do not send us screenshots of private conversations of people simply disgruntled by work or interview processes. 
+## Code of Conduct 
+- In order to add a company, please Send a PR with company name and public proof of notoriety. 
+- Personal grudges, word-of-mouth, arbitrary defamation, and second-hand knowledge would not be considered as enough proof. 
+- Proof to be shared in form of screenshots, tweets, archive.is links - anything that is/was a public comment from the company management and is viewable publicly (without logging-in/paywalls). 
+- Please do not send screenshots of private conversations and email chains of people simply disgruntled by work or interview processes. 
 
 ---
 
