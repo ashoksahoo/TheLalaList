@@ -20,10 +20,6 @@ A list of companies one would not want to touch with a 10ft pole while wearing a
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I think we should create a public / non editable google sheet with names of people who backout after accepting. Obviously need proof before putting anyones name on the list. A Glassdoor for people interviewing.</p>&mdash; Swapan Rajdev (@SRajdev) <a href="https://twitter.com/SRajdev/status/973470138057060352?ref_src=twsrc%5Etfw">March 13, 2018</a></blockquote>
 
-## [Uncommon.is](http://www.uncommon.is/)
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Here&#39;s a related idea to blacklists: refuse to interview anyone who can&#39;t join within a month. Don&#39;t even waste time. If that person really wants to move on, let them put in their papers</p>&mdash; Raveesh Bhalla (@raveeshbhalla) <a href="https://twitter.com/raveeshbhalla/status/973476898167603201?ref_src=twsrc%5Etfw">March 13, 2018</a></blockquote>
-
 ## [MadStreetDen](https://www.madstreetden.com/) 
 
 (Diversity over merit)
