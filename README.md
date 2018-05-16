@@ -37,4 +37,3 @@ A list of companies one would not want to touch with a 10ft pole while wearing a
 (Apparently, younger people don't need a life. Thanks to <a href="https://twitter.com/harshalbot">@harshalbot</a>)
 
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">While I am all for work-life balance, when you are just starting off in your career, you should just put in the hours.</p>&mdash; Sanket Nadhani (@sanketnadhani) <a href="https://twitter.com/sanketnadhani/status/996725813385949184?ref_src=twsrc%5Etfw">16 May 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
