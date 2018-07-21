@@ -10,9 +10,9 @@ A list of companies one would not want to touch with a 10ft pole while wearing a
 ---
 ## [Bold Kiln](https://www.boldkiln.com/)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Every candidate who asks in the first 5 questions they have - &quot;How many working days / week?&quot;, should just reject them at that stage I think.</p>&mdash; Abhishek Agarwal (@abhishekaggy) <a href="https://twitter.com/abhishekaggy/status/946022442895474688?ref_src=twsrc^tfw">December 27, 2017</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Every candidate who asks in the first 5 questions they have - &quot;How many working days / week?&quot;, should just reject them at that stage I think.</p>&mdash; Abhishek Agarwal (@abhishekaggy) <a href="https://twitter.com/abhishekaggy/status/946022442895474688">December 27, 2017</a></blockquote>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When you&#39;re 21-25, if you&#39;re stressed about working 6 days a week, I don&#39;t think I want to work with that.</p>&mdash; Abhishek Agarwal (@abhishekaggy) <a href="https://twitter.com/abhishekaggy/status/946032330283429889?ref_src=twsrc^tfw">December 27, 2017</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When you&#39;re 21-25, if you&#39;re stressed about working 6 days a week, I don&#39;t think I want to work with that.</p>&mdash; Abhishek Agarwal (@abhishekaggy) <a href="https://twitter.com/abhishekaggy/status/946032330283429889">December 27, 2017</a></blockquote>
 
 ## [Haptik](https://haptik.ai/)
 
@@ -43,3 +43,18 @@ A list of companies one would not want to touch with a 10ft pole while wearing a
 (Ability to handle pressure and long hours. Are you hiring developers or pressure cooker. )
 
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Ability to handle pressure and long hours. <a href="https://twitter.com/BeSensibull/status/1005765392134856707">10 Jun 2018</a></blockquote>
+
+## [Socialcops](https://socialcops.com/)
+
+Unapologetic about exploiting their employees. Convince employees it's okay because "Barack Obama works like this".
+
+> Last I checked, it was 3:07 am. I’ve been working since 11 am yesterday, and I’ll likely be in the office until 6 am when I’ll walk home, fall asleep for a few hours, and come back to do it all over again.
+
+> In a company survey, we learned that SocialCops employees pull an average of 5 all-nighters per month and work about 60 hours per week. Our office is open 24 hours a day, 7 days a week, and someone is usually working in the office at any given time, be it a Sunday afternoon or Friday evening.
+
+> Deepu often comes to work at 4 pm and leaves around 5 am. Krishna, another engineer, loves working in long continuous stretches — several days straight spent in the office alternating coding and Xbox — followed by a full day at home
+
+https://inc42.com/resources/socialcops-culture/
+
+https://www.slideshare.net/socialcops/socialcops-culture-and-values/27?src=clipshare
+![](https://i.imgur.com/xEYC8Eb.png =250x250)
